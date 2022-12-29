@@ -67,14 +67,16 @@ OS = ["Ubuntu","Windows", "Linux", "Kali Linux", "Ubuntu Unity", "MacOS"]
    <a href="https://github.com/SatyakiDey75">
    <img src="https://github-readme-stats.vercel.app/api?username=SatyakiDey75&show_icons=true&locale=en&langs_count=20&count_private=true&theme=blueberry&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
    </a>
+  </a>
    <a href="https://github.com/SatyakiDey75">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyakiDey75&theme=maroongold&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="SatyakiDey75" width=49% height=100%/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyakiDey75&theme=maroongold&background=000000" alt="SatyakiDey75" width=49% height=100%/>
    <br/>
    </a>
 </div>
 
 <div align=center> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyakiDey75&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=outrun&bg_color=000000&border_color=808080&locale=en&layout=compact" alt="SatyakiDey75" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyakiDey75&show_icons=true&theme=outrun&bg_color=000000&border_color=808080&locale=en&layout=compact" alt="SatyakiDey75" /></p>
+
 
 </div>
 
