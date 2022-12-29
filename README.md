@@ -65,8 +65,7 @@ OS = ["Ubuntu","Windows", "Linux", "Kali Linux", "Ubuntu Unity", "MacOS"]
 ##
 <div align="center">
    <a href="https://github.com/SatyakiDey75">
-   <img src="https://github-readme-stats.vercel.app/api?username=SatyakiDey75&show_icons=true&locale=en&langs_count=20&count_private=true&theme=blueberry&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
-   </a>
+   <img src="https://github-readme-stats.vercel.app/api?username=SatyakiDey75&show_icons=true&theme=blueberry&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
   </a>
    <a href="https://github.com/SatyakiDey75">
    <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyakiDey75&theme=maroongold&background=000000" alt="SatyakiDey75" width=49% height=100%/>
