@@ -5,7 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&labelColor=e13063&logo=instagram&logoColor=white&color=833ab4)](https://www.instagram.com/satyaki_75/)
 
 
-
 # Hallo alle zusammen !
 ![](https://komarev.com/ghpvc/?username=SatyaloDey75&color=blue)
 <a href="https://github.com/SatyakiDey75?tab=followers"><img src="https://img.shields.io/github/followers/SatyakiDey75?label=Followers&style=social" alt="GitHub Badge"></a>
