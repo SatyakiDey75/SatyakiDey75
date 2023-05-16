@@ -13,14 +13,14 @@
 
 ```c
 Name = "Satyaki Dey"
-Interests = ["Coding", "Problem Solving", "Graphics Designing", "Machine Learning","Web Development","Trying out various OS :)"]
-Languages = ["C", "Java", "Python", "HTML", "CSS", "Javascript"]
-OS = ["Ubuntu","Windows", "Linux", "Kali Linux", "Ubuntu Unity", "MacOS"]
+Interests = ["Coding", "Problem Solving", "Graphics Designing", "Machine Learning", "Cloud Technologies", "App Development"]
+Languages = ["C", "Java", "Python", "HTML", "CSS", "Javascript", "Dart"]
+OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 ```
 
 ## 💻 My Workstation
 ![](https://img.shields.io/badge/Windows_11_Pro-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6)
-![](https://img.shields.io/badge/Ubuntu_22.10-informational?style=flat&logo=Ubuntu&logoColor=white&color=dd4814)
+![](https://img.shields.io/badge/Ubuntu_22.04-informational?style=flat&logo=Ubuntu&logoColor=white&color=dd4814)
 ![](https://img.shields.io/badge/Intel-i5_12th_Gen-informational?style=flat&logo=intel&labelColor=08499d&logoColor=white&color=01a9ea)
 ![](https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Intel-iRIS_Xe-informational?style=flat&logo=intel&labelColor=08499d&logoColor=white&color=4bbf92)
@@ -32,18 +32,17 @@ OS = ["Ubuntu","Windows", "Linux", "Kali Linux", "Ubuntu Unity", "MacOS"]
 <div align=center>  
 
 <img src="https://img.icons8.com/color/48/000000/c-programming.png">
-<img src="https://img.icons8.com/color/48/000000/java.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/css.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+<img src="https://img.icons8.com/color/48/dart.png"/>
+<img src="https://img.icons8.com/color/48/flutter.png"/>
+<img src="https://img.icons8.com/color/48/google-cloud.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img src="https://img.icons8.com/color/48/000000/github--v5.png"/>
-<img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
 <img src="https://img.icons8.com/color/48/000000/windows-11.png"/>
-<img src="https://img.icons8.com/color/48/mac-os-logo.png">
-<img src="https://img.icons8.com/color/48/000000/adobe-creative-cloud--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 
 </div>
