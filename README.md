@@ -64,15 +64,17 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 ##
 <div align="center">
    <a href="https://github.com/SatyakiDey75">
-   <img src="https://github-readme-stats.vercel.app/api?username=SatyakiDey75&show_icons=true&theme=blueberry&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
+   <img src="https://github-readme-stats.vercel.app/api?username=SatyakiDey75&show_icons=true&theme=blueberry&hide_border=false&bg_color=000000&border_color=808080" width=40% height=90%/>
   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/SatyakiDey75">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyakiDey75&theme=maroongold&background=000000" alt="SatyakiDey75" width=49% height=100%/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyakiDey75&theme=maroongold&background=000000" alt="SatyakiDey75" width=40% height=100%/>
    <br/>
    </a>
 </div>
 
 <div align=center> 
+   &nbsp;&nbsp;
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyakiDey75&show_icons=true&theme=outrun&bg_color=000000&border_color=808080&locale=en&layout=compact" alt="SatyakiDey75" /></p>
 
 
