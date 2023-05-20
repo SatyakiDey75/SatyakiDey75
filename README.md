@@ -64,7 +64,7 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 ##
 <div align="center">
    <a href="https://github.com/SatyakiDey75">
-   <img src="https://github-readme-stats.vercel.app/api?username=SatyakiDey75&show_icons=true&theme=blueberry&hide_border=true&bg_color=transparent&border_color=808080" width=40% height=90%/>
+   <img src="https://github-readme-stats.vercel.app/api?username=SatyakiDey75&show_icons=true&theme=blueberry&hide_border=true&bg_color=00000000&border_color=808080" width=40% height=90%/>
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/SatyakiDey75">
@@ -75,7 +75,7 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 
 <div align=center> 
    &nbsp;&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyakiDey75&show_icons=true&theme=panda&bg_color=transparent&border_color=808080&locale=en&layout=compact&hide_border=true" alt="SatyakiDey75" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyakiDey75&show_icons=true&theme=panda&bg_color=00000000&border_color=808080&locale=en&layout=compact&hide_border=true" alt="SatyakiDey75" /></p>
 
 
 </div>
@@ -90,4 +90,4 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 
 ##
 #
-[![trophy](https://github-profile-trophy.vercel.app/?username=SatyakiDey75&theme=juicyfresh)](https://github.com/SatyakiDey75/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SatyakiDey75&theme=juicyfresh&no-frame=true&no-bg=true)](https://github.com/SatyakiDey75/github-profile-trophy)
