@@ -64,18 +64,18 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 ##
 <div align="center">
    <a href="https://github.com/SatyakiDey75">
-   <img src="https://github-readme-stats.vercel.app/api?username=SatyakiDey75&show_icons=true&theme=blueberry&hide_border=true&bg_color=0d1117&border_color=808080" width=40% height=90%/>
+   <img src="https://github-readme-stats.vercel.app/api?username=SatyakiDey75&show_icons=true&theme=blueberry&hide_border=true&bg_color=transparent&border_color=808080" width=40% height=90%/>
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/SatyakiDey75">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyakiDey75&theme=github-dark&background=0d1117&hide_border=true" alt="SatyakiDey75" width=44% height=100%/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyakiDey75&theme=solarized-dark&background=transparent&hide_border=true" alt="SatyakiDey75" width=44% height=100%/>
    <br/>
    </a>
 </div>
 
 <div align=center> 
    &nbsp;&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyakiDey75&show_icons=true&theme=panda&bg_color=0d1117&border_color=808080&locale=en&layout=compact&hide_border=true" alt="SatyakiDey75" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyakiDey75&show_icons=true&theme=panda&bg_color=transparent&border_color=808080&locale=en&layout=compact&hide_border=true" alt="SatyakiDey75" /></p>
 
 
 </div>
