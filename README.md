@@ -68,7 +68,7 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/SatyakiDey75">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyakiDey75&theme=github-dark&background=0d1117&hide_border=true" alt="SatyakiDey75" width=40% height=100%/>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=SatyakiDey75&theme=github-dark&background=0d1117&hide_border=true" alt="SatyakiDey75" width=44% height=100%/>
    <br/>
    </a>
 </div>
