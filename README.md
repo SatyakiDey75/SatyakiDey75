@@ -75,7 +75,7 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 
 <div align=center> 
    &nbsp;&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyakiDey75&show_icons=true&theme=panda&bg_color=00000000&border_color=808080&locale=en&layout=compact&hide_border=true" alt="SatyakiDey75" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SatyakiDey75&show_icons=true&langs_count=8&hide=makefile&size_weight=0.5&count_weight=0.5&theme=panda&bg_color=00000000&border_color=808080&locale=en&layout=compact&hide_border=true" alt="SatyakiDey75" /></p>
 
 
 </div>
