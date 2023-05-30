@@ -1,9 +1,9 @@
 
 ![MasterHead](https://raw.githubusercontent.com/SatyakiDey75/SatyakiDey75/main/assets/GitHubHeader%20(1).png)
-<a href="https://twitter.com/SatyakiDey_75" target="_blank" alt="Twitter Badge"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&labelColor=189DEE&logo=twitter&logoColor=white&color=white"></a>
-<a href="https://www.linkedin.com/in/satyaki-dey-3a0548257/" target="_blank" alt="LinkedIn Badge"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&labelColor=189DEE&logo=linkedin&logoColor=white&color=white"></a>
-<a href="https://www.instagram.com/satyaki_75/" target="_blank" alt="Instagram Badge"><img src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&labelColor=e13063&logo=instagram&logoColor=white&color=833ab4"></a>
-<a href="https://satyakidey75.github.io/" target="_blank" alt="Website Badge"><img src="https://img.shields.io/badge/My-Website-blue?style=flat&labelColor=white&logo=atandt&logoColor=189DEE&color=189DEE"></a>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&labelColor=189DEE&logo=twitter&logoColor=white&color=white)](https://twitter.com/SatyakiDey_75)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&labelColor=189DEE&logo=linkedin&logoColor=white&color=white)](https://www.linkedin.com/in/satyaki-dey-3a0548257/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&labelColor=e13063&logo=instagram&logoColor=white&color=833ab4)](https://www.instagram.com/satyaki_75/)
+[![Website Badge](https://img.shields.io/badge/My-Website-blue?style=flat&labelColor=white&logo=atandt&logoColor=189DEE&color=189DEE)](http://satyakidey75.github.io/)
 
 
 # Hallo alle zusammen !
