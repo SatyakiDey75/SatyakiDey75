@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&labelColor=189DEE&logo=twitter&logoColor=white&color=white)](https://twitter.com/SatyakiDey_75)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&labelColor=189DEE&logo=linkedin&logoColor=white&color=white)](https://www.linkedin.com/in/satyaki-dey-3a0548257/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&labelColor=e13063&logo=instagram&logoColor=white&color=833ab4)](https://www.instagram.com/satyaki_75/)
-[![Website Badge](https://img.shields.io/badge/My-Website-blue?style=flat&labelColor=white&logo=atandt&logoColor=189DEE&color=189DEE)](http://satyakidey75.github.io/)
+[![Website Badge](https://img.shields.io/badge/My-Website-blue?style=flat&labelColor=white&logo=atandt&logoColor=189DEE&color=189DEE)](https://satyakidey.live/)
 
 
 # Hallo alle zusammen !
