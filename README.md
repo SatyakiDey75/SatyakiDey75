@@ -6,6 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/My-Website-blue?style=flat&labelColor=white&logo=atandt&logoColor=189DEE&color=189DEE)](https://satyakidey.live/)
 
 
+
 # Hallo alle zusammen !
 ![](https://komarev.com/ghpvc/?username=SatyaloDey75&color=blue)
 <a href="https://github.com/SatyakiDey75?tab=followers"><img src="https://img.shields.io/github/followers/SatyakiDey75?label=Followers&style=social" alt="GitHub Badge"></a>
