@@ -93,4 +93,19 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 
 ##
 #
-[![trophy](https://github-profile-trophy.vercel.app/?username=SatyakiDey75&theme=juicyfresh&no-frame=true&no-bg=true)](https://github.com/SatyakiDey75/github-profile-trophy)
+<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
+
+![](https://github-profile-trophy.vercel.app/?username=SatyakiDey75&theme=juicyfresh&no-frame=true&no-bg=true)
+
+
+##
+#
+<p><h2 style="text-decoration: none; cursor: none;">☄️  <span style="color: #00c2e0">Hacktober Fest 2023:</span></h2></p>
+
+![](https://holopin.me/satyakidey75)
+
+##
+#
+<p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Activity Graph:</span></h2></p>
+
+![Satyaki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyakidey75&bg_color=false&color=ffffff&line=27e8a7&point=ffffff&area=true&hide_border=true)
