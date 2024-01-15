@@ -83,12 +83,12 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 
 </div>
 
-<!-- ##
+##
 ### Watch a snake 🐍 eating my contribution graph on Github:
 ##
 <div align=center> 
    <img src="https://github.com/satyakidey75/satyakidey75/blob/output/github-contribution-grid-snake.svg">
-</div> -->
+</div>
 
 
 ##
