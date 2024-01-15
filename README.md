@@ -93,7 +93,7 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 -->
 
 ##
-<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">3D View of my Contributions:</span></h2></p>
+<p><h2 style="text-decoration: none; cursor: none;">📊 <span style="color: #00c2e0">3D View of my Contributions:</span></h2></p>
 <img src="./profile-3d-contrib/profile-night-view.svg" />
 
 
