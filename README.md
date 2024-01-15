@@ -58,7 +58,7 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 <a href="mailto:sdey2836@gmail.com" alt="Satyaki Dey | Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"></a> &nbsp;
 <a href="https://discordapp.com/users/satyaki75#6354" alt="Satyaki Dey | Discord"><img src="https://img.icons8.com/plasticine/50/000000/discord-logo.png"></a> &nbsp;
 <a href="https://www.hackerrank.com/sdey2836" alt="Satyaki Dey | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"></a> &nbsp;
-<a href="https://leetcode.com/satyaki_75/" alt="Satyaki Dey | Leetcode"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a> &nbsp;
+<a href="https://leetcode.com" alt="Satyaki Dey | Leetcode"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a> &nbsp;
 </div>
 
 
@@ -74,6 +74,7 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
    <img src="https://streak-stats.demolab.com/?user=SatyakiDey75&theme=solarized-light&hide_border=true&background=transparent" alt="SatyakiDey75" width=44% height=100%/>
    <br/>
    </a>
+   
 </div>
 
 <div align=center> 
@@ -83,12 +84,17 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 
 </div>
 
-##
+<!--
 ### Watch a snake 🐍 eating my contribution graph on Github:
 ##
 <div align=center> 
    <img src="https://github.com/satyakidey75/satyakidey75/blob/output/github-contribution-grid-snake.svg">
 </div>
+-->
+
+##
+<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">3D View of my Contributions:</span></h2></p>
+<img src="./profile-3d-contrib/profile-night-view.svg" />
 
 
 ##
