@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&labelColor=189DEE&logo=twitter&logoColor=white&color=white)](https://twitter.com/SatyakiDey_75)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&labelColor=189DEE&logo=linkedin&logoColor=white&color=white)](https://www.linkedin.com/in/satyaki-dey-3a0548257/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&labelColor=e13063&logo=instagram&logoColor=white&color=833ab4)](https://www.instagram.com/satyaki_75/)
-[![Website Badge](https://img.shields.io/badge/My-Website-blue?style=flat&labelColor=white&logo=atandt&logoColor=189DEE&color=189DEE)](https://satyakidey.live/)
+[![Website Badge](https://img.shields.io/badge/My-Website-blue?style=flat&labelColor=white&logo=atandt&logoColor=189DEE&color=189DEE)](https://satyaki-dey.vercel.app/)
 
 
 
@@ -41,10 +41,15 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
 <img src="https://img.icons8.com/color/48/dart.png"/>
 <img src="https://img.icons8.com/color/48/flutter.png"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=40 />
+<img src="https://img.icons8.com/color/48/flask.png"/>
 <img src="https://img.icons8.com/color/48/google-cloud.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
-<img src="https://img.icons8.com/color/48/000000/windows-11.png"/>
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 
 </div>
@@ -60,6 +65,15 @@ OS = ["Ubuntu","Windows", "Linux", "MacOS"]
 <a href="https://www.hackerrank.com/sdey2836" alt="Satyaki Dey | HackerRank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"></a> &nbsp;
 <a href="https://leetcode.com" alt="Satyaki Dey | Leetcode"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"></a> &nbsp;
 </div>
+
+##
+## 📋 Projects:
+- AI Powered Career Counselling: &nbsp;[eDemy](https://edemy-32175.vercel.app)
+- Ecommerce Website: &nbsp;[Samarth Ecommerce](https://samarth-ecommerce-42137.vercel.app)
+- AI Powered Report Evaluator: &nbsp;[RepX](https://repxai.vercel.app/)
+- Portfolio website for an organization: &nbsp;[Samarth](https://samarth-tmsl.vercel.app)
+
+[Click Here](https://satyaki-dey.vercel.app/projects)  to view all Projects!!
 
 
 ##
