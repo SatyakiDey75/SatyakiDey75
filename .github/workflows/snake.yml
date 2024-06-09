@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Snake Contrib Graph
 on:
   schedule: # execute every 12 hours
     - cron: "* */6 * * *"
