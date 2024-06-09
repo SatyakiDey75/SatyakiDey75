@@ -15,9 +15,11 @@
 
 ```c
 Name = "Satyaki Dey"
-Interests = ["Coding", "Problem Solving", "Graphics Designing", "Machine Learning", "Cloud Technologies", "App Development"]
-Languages = ["C", "Java", "Python", "HTML", "CSS", "Javascript", "Dart"]
-OS = ["Ubuntu","Windows", "Linux", "MacOS"]
+Interests = ["Coding", "Problem Solving", "Machine Learning", "Cloud Technologies", "App Development"]
+Languages = ["C", "Java", "Python", "HTML", "CSS", "Javascript (Node JS)", "React JS", "Dart"]
+Frameworks/Libraries: ["Redux", "Express", "Tailwind CSS", "Flutter"]
+Cloud/Databases: ["Google Cloud", "MongoDB", "Firestore"]
+OS = ["Ubuntu", "Windows", "Debian"]
 ```
 
 ## 💻 My Workstation
