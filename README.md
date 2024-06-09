@@ -119,6 +119,18 @@ OS = ["Ubuntu", "Windows", "Debian"]
 
 ![](https://github-profile-trophy.vercel.app/?username=SatyakiDey75&theme=juicyfresh&no-frame=true&no-bg=true)
 
+##
+#
+<p><h2 style="text-decoration: none; cursor: none;">🐍 <span style="color: #00c2e0">Watch a snake eat my contribution graph on Github:</span></h2></p>
+<div align=center> 
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/satyakidey75/satyakidey75/blob/output/github-snake-dark.svg" />
+     <source media="(prefers-color-scheme: light)" srcset="https://github.com/satyakidey75/satyakidey75/blob/output/github-snake.svg" />
+     <img alt="github-snake" src="https://github.com/satyakidey75/satyakidey75/blob/output/github-snake.svg" />
+   </picture>
+</div>
+
+
 
 ##
 #
