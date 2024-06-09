@@ -75,7 +75,7 @@ OS = ["Ubuntu", "Windows", "Debian"]
 - AI Powered Report Evaluator: &nbsp;[RepX](https://repxai.vercel.app/)
 - Portfolio Website for an Organization: &nbsp;[Samarth](https://samarth-tmsl.vercel.app)
 
-[Click Here](https://satyaki-dey.vercel.app/projects)  to view all Projects!!
+[Click Here](https://satyaki-dey.vercel.app/projects)  to view more Projects!!
 
 
 ##
