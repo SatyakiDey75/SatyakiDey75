@@ -73,6 +73,7 @@ OS = ["Ubuntu", "Windows", "Debian"]
 - AI Powered Career Counselling: &nbsp;[eDemy](https://edemy-32175.vercel.app)
 - Ecommerce Website: &nbsp;[Samarth Ecommerce](https://samarth-ecommerce-42137.vercel.app)
 - AI Powered Report Evaluator: &nbsp;[RepX](https://repxai.vercel.app/)
+- Smart Exam Preparation using AI: &nbsp;[StudyGenie](https://studygenie-cf.vercel.app/)
 - Portfolio Website for an Organization: &nbsp;[Samarth](https://samarth-tmsl.vercel.app)
 
 [Click Here](https://satyaki-dey.vercel.app/projects)  to view more Projects!!
