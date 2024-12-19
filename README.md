@@ -38,17 +38,25 @@ OS = ["Ubuntu", "Windows", "Debian"]
 <img src="https://img.icons8.com/color/48/000000/c-programming.png">
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/css.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img src="https://img.icons8.com/color/48/dart.png"/>
-<img src="https://img.icons8.com/color/48/flutter.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40/>
+<img src="https://img.icons8.com/color/48/000000/vite.png"/>
+<img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=40/>
+<img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=40 />
+<img src="https://img.icons8.com/color/48/dart.png"/>
+<img src="https://img.icons8.com/color/48/flutter.png"/>
 <img src="https://img.icons8.com/color/48/flask.png"/>
+<img src="https://img.icons8.com/color/48/tensorflow.png"/>
+<img src="https://img.icons8.com/color/48/opencv.png"/>
+<img src="https://img.icons8.com/color/48/flask.png"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img src="https://img.icons8.com/color/48/google-cloud.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/ubuntu.png"/>
