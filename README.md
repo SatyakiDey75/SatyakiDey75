@@ -28,6 +28,12 @@ OS = ["Ubuntu", "Windows", "Debian"]
 ![](https://img.shields.io/badge/Intel-i5_12th_Gen-informational?style=flat&logo=intel&labelColor=08499d&logoColor=white&color=01a9ea)
 ![](https://img.shields.io/badge/RAM-16_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Intel-iRIS_Xe-informational?style=flat&logo=intel&labelColor=08499d&logoColor=white&color=4bbf92)
+<br>
+![](https://img.shields.io/badge/Apple-Mac_Mini_M4-informational?style=flat&logo=apple&logoColor=white&color=6e6e6e)
+![](https://img.shields.io/badge/macOS_Sequoia-informational?style=flat&logo=apple&logoColor=white&color=6e6e6e)
+![](https://img.shields.io/badge/RAM-16_GB-informational?style=flat&logo=apple&logoColor=white&color=6e6e6e)
+![](https://img.shields.io/badge/Chip-Apple_M4-informational?style=flat&logo=apple&logoColor=white&color=6e6e6e)
+
 
 <!---
 ##
